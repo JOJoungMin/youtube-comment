@@ -6,7 +6,7 @@ One Paragraph of project description goes here
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-https://github.com/JOJoungMin/youtube-comment/issues/1#issue-2701277650
+![랜딩 페이지](https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9)
 
 ### Prerequisites
 
