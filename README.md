@@ -12,6 +12,32 @@
 - 배포: AWS
 
 - installed Library
+
+- #### installed Library
+       @emotion/react
+       @fortawesome/fontawesome-svg-core
+       @fortawesome/free-brands-svg-icons
+       @fortawesome/free-regular-svg-icons
+       @fortawesome/free-solid-svg-icons
+       @fortawesome/react-fontawesome
+       @google-cloud/language
+       @tanstack/react-query
+       axios
+       bootstrap
+       eslint-config-next
+       eslint
+       formidable
+       moment-timezone
+       mongodb
+       next-auth
+       next-pwa
+       next-recaptcha-v3
+       next
+       rate-limiter-flexible
+       react-d3-cloud
+       recharts
+       zustand
+ 
 ```
 {
 
