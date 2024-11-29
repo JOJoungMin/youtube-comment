@@ -1,8 +1,6 @@
 # 유투브 댓글 분석 웹앱 - Youtuview(유튜뷰)
 
-One Paragraph of project description goes here
-
-## Getting Started
+## 1. 설치 방법
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
