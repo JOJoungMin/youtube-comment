@@ -75,7 +75,8 @@
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9" width="98%" />
 </div>
- 
+
+- 사용자가 해당 사이트에 처음 들어오면 만나게 되는 화면입니다. 어떤 목적을 가지고 있는지 한눈에 보여줍니다.
 
 
 ![랜딩 페이지](https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9)
