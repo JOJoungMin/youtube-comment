@@ -69,8 +69,13 @@
   - PWA를 사용하여 네이티브 앱 처럼 홈 화면에 추가 가능합니다.
  
 ## 4. 이용 방법과 주요 기능
+### 4-0-1. 랜딩 페이지
 
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/01793d96-ded0-4399-a514-28825b3e1146" width="48%" />
+    <img src="https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9" width="48%" />
+</div>
  
 
 
