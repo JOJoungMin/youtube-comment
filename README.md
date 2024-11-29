@@ -87,6 +87,11 @@
 </div>
 
 
+- 상단의 Navbar의 로그인 버튼을 눌러 구글 로그인으로 이동합니다.
+- 한번 로그인을 할 시 한 달간 토큰을 저장해 로그인을 간소화합니다.
+
+
+
 ![로그인 페이지](https://github.com/user-attachments/assets/71563a75-3724-4f45-9d3d-267f17693ef1)
 
 ![메인 페이지](https://github.com/user-attachments/assets/8b687885-eb5a-4114-aadd-74cfbbd769a9)
