@@ -73,7 +73,6 @@
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/01793d96-ded0-4399-a514-28825b3e1146" width="48%" />
     <img src="https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9" width="48%" />
 </div>
  
@@ -257,3 +256,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+
+
+
+
+
+// 두개로 나뉜 형태
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/01793d96-ded0-4399-a514-28825b3e1146" width="48%" />
+    <img src="https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9" width="48%" />
+</div>
