@@ -13,9 +13,9 @@ These instructions will get you a copy of the project up and running on your loc
 ![Honeycam 2024-11-29 13-20-37](https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31)
 
 
-<div style="display: flex; width: 100%">
-    <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 1" style="width: 50%;" />
-    <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 2" style="width: 50%;" />
+<div style="display: flex; width: 100%;">
+    <img src="image1.jpg" alt="Image 1" style="width: 50%; display: block;" />
+    <img src="image2.jpg" alt="Image 2" style="width: 50%; display: block;" />
 </div>
 ### Prerequisites
 
