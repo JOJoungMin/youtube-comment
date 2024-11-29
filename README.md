@@ -76,10 +76,16 @@
     <img src="https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9" width="98%" />
 </div>
 
-- 사용자가 해당 사이트에 처음 들어오면 만나게 되는 화면입니다. 어떤 목적을 가지고 있는지 한눈에 보여줍니다.
+- 사용자가 해당 사이트에 처음 들어오면 만나게 되는 화면입니다. 사용자가 어떤 웹인지 추측할 수 있게 합니다
+- 하단에 fouter를 구현하여 제작자 정보를 열람할 수 있도록 하였습니다.
 
+  
+### 4-0-2. 로그인 페이지
 
-![랜딩 페이지](https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9)
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/71563a75-3724-4f45-9d3d-267f17693ef1" alt="로그인 페이지" style="max-width: 100%; height: auto;" />
+</div>
+
 
 ![로그인 페이지](https://github.com/user-attachments/assets/71563a75-3724-4f45-9d3d-267f17693ef1)
 
