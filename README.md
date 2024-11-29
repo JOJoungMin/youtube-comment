@@ -57,8 +57,8 @@
 
 - #### localstorage에 최근 검색 정보 저장
 
-- 사용자가 최근에 검색한 영상 정보를 localstorage에 저장하였습니다.
-- 로그인을 할 시 이용자의 정보를 받아와 메인화면에 localstorage에 저장된 정보를 보여줍니다.
+  - 사용자가 최근에 검색한 영상 정보를 localstorage에 저장하였습니다.
+  - 로그인을 할 시 이용자의 정보를 받아와 메인화면에 localstorage에 저장된 정보를 보여줍니다.
 
 
 - #### localstorage에 게임 데이터 저장
