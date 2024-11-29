@@ -37,39 +37,36 @@
        react-d3-cloud
        recharts
        zustand
+
+## 3. 프로젝트 설명
+- #### tanstack_query를 통해 개발한 댓글 분석 모델을 활용하여 입력한 영상의 댓글과 유투버의 정보를 제공하는 웹입니다.
+  - 영상을 쉽게 분석하기 위한 목표를 가지며 제작했습니다. 
  
-```
-{
+- #### TypeScript로 타입 에러 제어
+  - TypeScript를 사용하여 Type Error로 인한 사고 발생을 미연에 방지하고자 하였습니다.
+ 
+- #### Zustand를 활용한 전역적 상태 관리
+  - 기존에 전역 상태 관리 라이브러리로 redux-toolkit을 사용하였는데, 이 프로젝트에선 비교적 문법이 쉽고 가벼운 Zustand를 사용해보았습니다.
 
-@emotion/react
-@fortawesome/fontawesome-svg-core
-@fortawesome/free-brands-svg-icons
-@fortawesome/free-regular-svg-icons
-@fortawesome/free-solid-svg-icons
-@fortawesome/react-fontawesome
-@google-cloud/language
-@tanstack/react-query
-axios
-bootstrap
-eslint-config-next
-eslint
-formidable
-moment-timezone
-mongodb
-next-auth
-next-pwa
-next-recaptcha-v3
-next
-rate-limiter-flexible
-react-d3-cloud
-recharts
-zustand
+- #### React-Query를 이용한 효율적인 비동기 통신 처리
+  - React-Query(Tanstack-Query) 를 사용하여 좀 더 효과적인 비동기 통신 처리를 지향했습니다.
+  - 통신이 로딩 중이거나 에러가 발생했을때의 처리나, 캐싱 기능 등을 주로 활용했습니다.
+  - 특히, 사용자가 추측 단어를 input에 입력할 때, DB collection에 저장된 정답 단어에 대한 유사어 단어 5500여개를 불러와서 비교하는 과정이 필요했습니다. 이 과정이 대략 2초 가량 소모되었고, 만약 유사어 5500여개 단어에 포함되지 않는 단어를 사용자가 입력했을 경우엔 추가로 Open AI API에서 임베딩 값을 얻어와야 했습니다. 이 과정이 1초 가량 소모되어 사용자는 추측 단어를 입력할 때마다 최소 2초의 지연 시간을 겪어야 했습니다. 이를 해소하기 위해 웹에 최초로 진입시 React-Query를 사용하여 DB에 저장된 유사어 단어를 모두 불러와 이를 하루 동안 cache 시켰습니다. 이후 사용자가 추측 단어를 입력할 때는 2초의 대기 시간이 소요되지 않게 되었습니다. 또한, React-Query를 사용하여 데이터를 불러오는 통신 과정은 비동기적이기에 사용자가 해당 통신이 완료되지 않아도 사용자가 웹의 다른 기능을 이용하는 것에는 무리가 없도록 설정했습니다.
+ 
+- #### Kakao 소셜 로그인
+  - Kakao 소셜 로그인이 가능하며, 별도의 로그인 페이지도 구현하였습니다.
+
+- #### localstorage에 게임 데이터 저장
+  - 게임의 플레이 정보 (정답을 맞혔는지, 추측 단어들의 배열, 플레이 시간, 오늘 날짜) 등을 localstorage에 저장하였습니다.
+  - 로그인 한 경우 localstorage에 저장됨과 동시에 DB에도 플레이 정보를 저장하여 다른 디바이스에서 로그인하여도 같은 플레이 정보를 확인 가능하도록 설정하였습니다. 
+ 
+- #### PWA로 네이티브 앱 처럼 다운 가능
+  - PWA를 사용하여 네이티브 앱 처럼 홈 화면에 추가 가능합니다.
+ 
+## 4. 이용 방법과 주요 기능
 
 
-
-}
-```
-
+ 
 
 
 ![랜딩 페이지](https://github.com/user-attachments/assets/5e6a7d0c-4769-404f-a6c6-d618ec7cb1b9)
