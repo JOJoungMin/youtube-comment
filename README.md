@@ -19,7 +19,6 @@ These instructions will get you a copy of the project up and running on your loc
     <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 2" style="width: 45%;" />
 </div>
 
-
 ### Prerequisites
 
 What things you need to install the software and how to install them
