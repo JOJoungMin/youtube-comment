@@ -20,7 +20,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ![유투버 디테일 페이지](https://github.com/user-attachments/assets/0d101d2c-4d0e-448c-a8bf-7c6e50d572e5)
 
+![영상 디테일 페이지](https://github.com/user-attachments/assets/f3b0e56c-58da-40b4-b326-5f72650139fb)
+
+![찜기능 구현](https://github.com/user-attachments/assets/c0bfa848-4c22-41c8-a95d-dc4ca95dc7c9)
+
 ![Honeycam 2024-11-29 13-20-37](https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31)
+
+
 
 
 <div style="display: flex; width: 100%;">
