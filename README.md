@@ -15,8 +15,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 1" width="500" />
-    <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 2" width="500" />
+    <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 1" width="300" />
+    <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 2" width="300" />
 </div>
 
 ### Prerequisites
