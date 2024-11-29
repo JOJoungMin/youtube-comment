@@ -12,6 +12,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ![Honeycam 2024-11-29 13-20-37](https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31)
 
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 1" width="300" />
+    <img src="https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31" alt="Image 2" width="300" />
+</div>
+
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
