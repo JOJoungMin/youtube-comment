@@ -93,6 +93,13 @@
     <img src="https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc" alt="URL 검색 gIf" style="max-width: 100%; height: auto;" />
 </div>
 
+
+|URL 검색|
+|:---:|
+|  <img src="https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc" alt="URL 검색 gIf" style="max-width: 100%; height: auto;" />|
+|URL을 이용, API를 통해 분석 화면 데이터를 만들어냅니다.|
+
+
 - 검색창에 URL을 입력해여 해당 영상의 정보와 분석을 진행하는 페이지로 이동합니다.
 - 유투버 정보와 해당 영상의 댓글들을 보여줍니다.
 
