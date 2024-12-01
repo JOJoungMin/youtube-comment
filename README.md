@@ -1,5 +1,10 @@
 # 유투브 댓글 분석 웹앱 - Youtuview(유튜뷰)
 
+### 깃 리드미 템플릿 🖍️
+
+[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-ㅎㄱㄷ두?style=flat&logo=google-chrome&logoColor=white" />]() 
+<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-fab2ac?style=flat&logo=&logoColor=white" />]()
+
 ## 1. 설치 방법
 
 ### [유튜뷰](https://youtuview.site) 👈 클릭
@@ -199,53 +204,11 @@
 
 
 
-<div style="display: flex; justify-content: center;">
-       <img src="https://github.com/user-attachments/assets/452a8d96-fe63-4fc3-aa99-869425f52710" alt="댓글 감정 평가" width="48%"/>
-       <img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" width="48%" />
-</div>
 
 
 
 
 
-
-
-
-
-
-
-
-![URL 검색 gIf](https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc)
-
-![로그인 페이지](https://github.com/user-attachments/assets/71563a75-3724-4f45-9d3d-267f17693ef1)
-
-![메인 페이지](https://github.com/user-attachments/assets/8b687885-eb5a-4114-aadd-74cfbbd769a9)
-
-![URL 검색 gIf](https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc)
-
-![인기 차트](https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb)
-
-![최근 검색 기록](https://github.com/user-attachments/assets/b7e1f174-8b16-4e2c-b042-7b6a2cbcd8ee)
-
-ㅏㅗㅗㅓㅏㅗ
-
-![유투버 디테일 페이지](https://github.com/user-attachments/assets/0d101d2c-4d0e-448c-a8bf-7c6e50d572e5)
-
-![영상 디테일 페이지](https://github.com/user-attachments/assets/f3b0e56c-58da-40b4-b326-5f72650139fb)
-
-![찜기능 구현](https://github.com/user-attachments/assets/c0bfa848-4c22-41c8-a95d-dc4ca95dc7c9)
-
-![Honeycam 2024-11-29 13-20-37](https://github.com/user-attachments/assets/df9bb110-5376-4390-bfa7-b44e12aedd31)
-
-<div align="center">
-
-<!-- logo -->
-<img src="https://user-images.githubusercontent.com/80824750/208554558-490845c9-959a-4823-9003-350ec4d221bf.png" width="400"/>
-
-### 깃 리드미 템플릿 🖍️
-
-[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-ㅎㄱㄷ두?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-fab2ac?style=flat&logo=&logoColor=white" />]()
 
 </div> 
 
