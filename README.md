@@ -104,17 +104,25 @@
     <img src="https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb" alt="인기 차트" style="max-width: 100%; height: auto;" />
 </div>
 
+- 인기 차트는 분석량이 많은 순으로 좌측부터 정렬됩니다.
+- 메인 페이지는 첫 랜더링 시 DataBase에서 분석 횟수를 바탕으로 정렬합니다.
+- 화살표 버튼을 이용 최대 10개까지의 인기 차트를 확인할 수 있습니다.
+
 
 ##### 기본 기능 (찜기능 구현)
+
 
 
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/c0bfa848-4c22-41c8-a95d-dc4ca95dc7c9" alt="찜기능 구현" style="max-width: 100%; height: auto;" />
 </div>
 
-- 인기 차트는 분석량이 많은 순으로 좌측부터 정렬됩니다.
-- 메인 페이지는 첫 랜더링 시 DataBase에서 분석 횟수를 바탕으로 정렬합니다.
-- 화살표 버튼을 이용 최대 10개까지의 인기 차트를 확인할 수 있습니다.
+- 이용자 개인이 찜을 해놓은 영상과 유투버를 찾아볼 수 있게해줍니다.
+- 랜덤하게 4개를 볼 수 있으며 마이페이지에서 전체 찜목록을 확인할 수 있습니다.
+
+##### 기본 기능 (최근 검색한 영상)
+
+
 
 
 
