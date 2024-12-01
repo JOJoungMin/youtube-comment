@@ -87,7 +87,21 @@
 ### 4-1. 메인페이지
 
 
-##### 기본 기능 (단어 입력)
+##### 기본 기능 (URL 검색)
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc" alt="URL 검색 gIf" style="max-width: 100%; height: auto;" />
+</div>
+
+
+- 검색창에 URL을 입력해여 해당 영상의 정보와 분석을 진행하는 페이지로 이동합니다.
+- 유투버 정보와 해당 영상의 댓글들을 보여줍니다.
+
+
+
+
+![URL 검색 gIf](https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc)
+
 
 
 
