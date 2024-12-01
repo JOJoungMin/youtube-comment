@@ -124,9 +124,10 @@
 
 |local 저장소 추가|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/c5093e66-2315-48a8-81ad-21ec0bd332e9" alt="로컬 저장소 2" style="max-width: 100%; height: auto;" />|
+|<img src="https://github.com/user-attachments/assets/c5093e66-2315-48a8-81ad-21ec0bd332e9" alt="로컬 저장소 2" style="max-width: 100%; height: auto;" width="48%"/> <img src="https://github.com/user-attachments/assets/cb91d690-7dbf-41ab-b44c-4ae272aafc15" alt="로컬 저장소 1" style="max-width: 100%; height: auto;" width="48%" />|
 |local 저장소에 데이터가 새롭게 들어갑니다.|
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 |local 저장소 추가 확인|
 |:---:|
