@@ -133,6 +133,23 @@
 |<img src="https://github.com/user-attachments/assets/cb91d690-7dbf-41ab-b44c-4ae272aafc15" alt="로컬 저장소 1" style="max-width: 100%; height: auto;" />|
 |local 저장소에서 새로운 데이터를 데려와 화면에 표시합니다.|
 
+- 이용자가 최근에 검색한 영상을 4개까지 보여줍니다.
+- 영상을 새롭게 데려오면 저장소가 업데이트 되어 최근 4개 항목이 갱신됩니다.
+
+### 4-2. 유튜버 페이지
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![URL 검색 gIf](https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc)
@@ -146,6 +163,8 @@
 ![인기 차트](https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb)
 
 ![최근 검색 기록](https://github.com/user-attachments/assets/b7e1f174-8b16-4e2c-b042-7b6a2cbcd8ee)
+
+ㅏㅗㅗㅓㅏㅗ
 
 ![유투버 디테일 페이지](https://github.com/user-attachments/assets/0d101d2c-4d0e-448c-a8bf-7c6e50d572e5)
 
