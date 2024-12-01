@@ -89,11 +89,6 @@
 
 ##### 기본 기능 (URL 검색)
 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc" alt="URL 검색 gIf" style="max-width: 100%; height: auto;" />
-</div>
-
-
 |URL 검색|
 |:---:|
 |  <img src="https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc" alt="URL 검색 gIf" style="max-width: 100%; height: auto;" />|
@@ -104,12 +99,12 @@
 - 유투버 정보와 해당 영상의 댓글들을 보여줍니다.
 
 
-
 ##### 기본 기능 (인기 유튜버, 영상을 표시)
 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb" alt="인기 차트" style="max-width: 100%; height: auto;" />
-</div>
+|인기 유튜버, 영상을 표시|
+|:---:|
+| <img src="https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb" alt="인기 차트" style="max-width: 100%; height: auto;" />|
+|사이트 자체적인 인기 차트를 표시합니다.|
 
 - 인기 차트는 분석량이 많은 순으로 좌측부터 정렬됩니다.
 - 메인 페이지는 첫 랜더링 시 DataBase에서 분석 횟수를 바탕으로 정렬합니다.
@@ -120,16 +115,17 @@
 
 
 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/c0bfa848-4c22-41c8-a95d-dc4ca95dc7c9" alt="찜기능 구현" style="max-width: 100%; height: auto;" />
-</div>
+|찜기능 구현|
+|:---:|
+| <img src="https://github.com/user-attachments/assets/c0bfa848-4c22-41c8-a95d-dc4ca95dc7c9" alt="찜기능 구현" style="max-width: 100%; height: auto;" />|
+|사이트 자체적으로 찜기능을 구현합니다.|
 
 - 이용자 개인이 찜을 해놓은 영상과 유투버를 찾아볼 수 있게해줍니다.
 - 랜덤하게 4개를 볼 수 있으며 마이페이지에서 전체 찜목록을 확인할 수 있습니다.
 
 ##### 기본 기능 (최근 검색한 영상)
 
-|local 저장소 추가|
+|local 저장소|
 |:---:|
 |<img src="https://github.com/user-attachments/assets/c5093e66-2315-48a8-81ad-21ec0bd332e9" alt="로컬 저장소 2" style="max-width: 100%; height: auto;" width="48%"/> <img src="https://github.com/user-attachments/assets/cb91d690-7dbf-41ab-b44c-4ae272aafc15" alt="로컬 저장소 1" style="max-width: 100%; height: auto;" width="48%" />|
 |local 저장소에 데이터가 새롭게 들어갑니다.|
