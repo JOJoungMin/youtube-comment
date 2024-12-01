@@ -97,16 +97,19 @@
 - 유투버 정보와 해당 영상의 댓글들을 보여줍니다.
 
 
+
 ##### 기본 기능 (인기 유튜버, 영상을 표시)
 
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb" alt="인기 차트" style="max-width: 100%; height: auto;" />
 </div>
 
+
 ##### 기본 기능 (찜기능 구현)
 
+
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb" alt="인기 차트" style="max-width: 100%; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/c0bfa848-4c22-41c8-a95d-dc4ca95dc7c9" alt="찜기능 구현" style="max-width: 100%; height: auto;" />
 </div>
 
 - 인기 차트는 분석량이 많은 순으로 좌측부터 정렬됩니다.
