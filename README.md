@@ -123,6 +123,10 @@
 ##### 기본 기능 (최근 검색한 영상)
 
 
+|로컬 저장소|
+|:---:|
+| <img src="https://github.com/user-attachments/assets/c0bfa848-4c22-41c8-a95d-dc4ca95dc7c9" alt="찜기능 구현" style="max-width: 100%; height: auto;" />
+|화면에 대한 설명을 입력합니다.|
 
 
 
