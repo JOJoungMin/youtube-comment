@@ -169,7 +169,7 @@
 
 |유투버 정보 표시|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" />|
+|<img src="https://github.com/user-attachments/assets/cd0cec09-3d10-4c2c-a2b0-8a2674cb706e" alt="비디오 디테일 페이지" />|
 |API를 통해 유튜버 정보를 데려옵니다.|
 
 - 해당 유투버의 구독자와 모든 영상의 조회수와 전체 영상 갯수를 보여줍니다.
@@ -178,7 +178,7 @@
 
 |댓글 정보 표시|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" />|
+|<img src="https://github.com/user-attachments/assets/8709eed9-62af-4abf-8e92-f2492a055469" alt="비디오 디테일 페이지2" />|
 |API를 통해 영상 댓글 정보를 데려옵니다.|
 
 - 해당 영상에 대한 댓글 전체와 댓글이 달린 시기를 활용하여 화제성 분석 그래프를 제공합니다.
@@ -187,10 +187,13 @@
 
 |댓글 분석|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" />|
+|<img src="https://github.com/user-attachments/assets/bc503f30-ffdd-49b5-95cd-86299dde11b7" alt="분석하기1" width="48%" /> <img src="https://github.com/user-attachments/assets/3f4d3597-af28-4cb1-8af4-6ce650097da7" alt="분석하기2" width="48%" />|
 |댓글을 분석합니다.|
 
 - 기존 분석 데이터가 있는 경우 그 일시를 알려주며 분석을 직접 보낼 수 있는 기회를 사용자에게 제공합니다.
+
+
+
 
 
 
