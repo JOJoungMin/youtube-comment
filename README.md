@@ -13,11 +13,6 @@
 </div> 
 
 
-### 📝 0. 기본 정보
-
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-fab2ac?style=flat&logo=&logoColor=white" />]()
-<br/> [<img src="https://img.shields.io/badge/팀원-김동우, 조정민-fab2ac?style=flat&logo=&logoColor=white" />]()
-
 ## 1. 설치 방법
 
 ### [유튜뷰](https://youtuview.site) 👈 클릭
