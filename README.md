@@ -122,12 +122,17 @@
 
 ##### 기본 기능 (최근 검색한 영상)
 
-
-|로컬 저장소|
+|local 저장소 추가|
 |:---:|
-| <img src="https://github.com/user-attachments/assets/c0bfa848-4c22-41c8-a95d-dc4ca95dc7c9" alt="찜기능 구현" style="max-width: 100%; height: auto;" />
-|  <img src="https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc" alt="URL 검색 gIf" style="max-width: 100%; height: auto;" />  <img src="https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc" alt="URL 검색 gIf" style="max-width: 100%; height: auto;" />
-|화면에 대한 설명을 입력합니다.|
+|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="450"/>|
+|local 저장소에 데이터가 새롭게 들어갑니다.|
+
+
+|local 저장소 추가 확인|
+|:---:|
+|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="450"/>|
+|local 저장소에서 새로운 데이터를 데려와 화면에 표시합니다.|
+
 
 
 
