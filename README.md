@@ -142,13 +142,13 @@
 
 |댓글 감정 평가 그래프|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/452a8d96-fe63-4fc3-aa99-869425f52710" alt="댓글 감정 평가" />|
+|<img src="https://github.com/user-attachments/assets/452a8d96-fe63-4fc3-aa99-869425f52710" alt="댓글 감정 평가" width="48%"/>|
 |그동안 검색했던 해당 유튜버의 모든 영상을 감정 평가한 것을 그래프로 보여줍니다.|
 
 
 |댓글 키워드 추출 그래프|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" />|
+|<img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" width="48%"/>|
 |그동안 검색했던 해당 유튜버의 모든 영상 댓글에서 키워드를 추출해 보여줍니다.|
 
 <div style="display: flex; justify-content: center;">
