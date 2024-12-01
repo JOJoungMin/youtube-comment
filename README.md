@@ -205,10 +205,30 @@
 
 - 기존 분석 데이터가 있는 경우 그 일시를 알려주며 분석을 직접 보낼 수 있는 기회를 사용자에게 제공합니다.
 
+- - - 
+
+### 4-3. 마이 페이지
+
+##### 기본 기능 (구독 목록)
+
+|구독 목록|
+|:---:|
+|<img src="https://github.com/user-attachments/assets/bc503f30-ffdd-49b5-95cd-86299dde11b7" alt="분석하기1" width="48%" /> <img src="https://github.com/user-attachments/assets/3f4d3597-af28-4cb1-8af4-6ce650097da7" alt="분석하기2" width="48%" />|
+|사용자의 구글 로그인 데이터를 활용하여 구독 목록을 표시합니다.|
+
+- 평소 자주 확인해볼 일이 없는 구독 유튜버 전체를 볼 수 있는 경험을 제공합니다.
+
+##### 기본 기능 (찜 목록)
+
+|찜 목록|
+|:---:|
+|<img src="https://github.com/user-attachments/assets/bc503f30-ffdd-49b5-95cd-86299dde11b7" alt="분석하기1" width="48%" /> <img src="https://github.com/user-attachments/assets/3f4d3597-af28-4cb1-8af4-6ce650097da7" alt="분석하기2" width="48%" />|
+|이용자의 찜 목록을 표시합니다.|
+
+- 사이트 내에서 찜한 유투버와 영상을 살펴볼 수 있는 공간을 제공합니다.
 
 
-
-
+@@ 아직 디자인 미정이라 gif xx
 
 
 
