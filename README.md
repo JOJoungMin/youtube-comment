@@ -5,14 +5,11 @@
 ### [유튜뷰](https://youtuview.site) 👈 클릭
 
 ## 2. 개요
-
 - 프로젝트 이름: 유투브 댓글 분석 웹앱-유튜뷰
-- 개발 기간: Next.js, Typescript, mongoDB, tanstack_query
+- 개발 기간: 2024.09.10 ~ 2024.12.03
+- Next.js, Typescript, mongoDB, tanstack_query
 - 작업 관리: Git
 - 배포: AWS
-
-- installed Library
-
 - #### installed Library
        @emotion/react
        @fortawesome/fontawesome-svg-core
