@@ -93,17 +93,29 @@
     <img src="https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc" alt="URL 검색 gIf" style="max-width: 100%; height: auto;" />
 </div>
 
-
 - 검색창에 URL을 입력해여 해당 영상의 정보와 분석을 진행하는 페이지로 이동합니다.
 - 유투버 정보와 해당 영상의 댓글들을 보여줍니다.
 
 
+##### 기본 기능 (인기 유튜버, 영상을 표시)
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb" alt="인기 차트" style="max-width: 100%; height: auto;" />
+</div>
+
+##### 기본 기능 (찜기능 구현)
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/f0050209-8cf5-44fc-afab-8cee12bf4ecb" alt="인기 차트" style="max-width: 100%; height: auto;" />
+</div>
+
+- 인기 차트는 분석량이 많은 순으로 좌측부터 정렬됩니다.
+- 메인 페이지는 첫 랜더링 시 DataBase에서 분석 횟수를 바탕으로 정렬합니다.
+- 화살표 버튼을 이용 최대 10개까지의 인기 차트를 확인할 수 있습니다.
+
 
 
 ![URL 검색 gIf](https://github.com/user-attachments/assets/5fa793f8-58b6-4361-acf6-883869464cdc)
-
-
-
 
 ![로그인 페이지](https://github.com/user-attachments/assets/71563a75-3724-4f45-9d3d-267f17693ef1)
 
