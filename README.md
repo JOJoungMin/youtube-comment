@@ -230,15 +230,17 @@
 
 @@ 아직 디자인 미정이라 gif xx
 
+## 5. 프로젝트 회고
+- #### 이곳은 살펴보니 velog 시리즈를 작성하시던데. 일단 비워뒀습니다.
 
 
-### 깃 리드미 템플릿 🖍️
+## 6. 후기
+### 느낀 점
 
-[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-ㅎㄱㄷ두?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-fab2ac?style=flat&logo=&logoColor=white" />]()
-
-
-
+- 솔직히 이런 식의 프로젝트를 처음 해봤습니다. 여러 어려움이 있었지만 그 중 제일은 팀원에게 피해를 주는 것이었습니다. 모르는 것 정도는 괜찮다고 생각합니다. 배우면 되니까요. 그런데 어디서 부터 어디까지를 내가 모르고 있는지 조차 모르겠는 건 정말 미치겠더라고요. 여러모로 많이 공부하며 한 프로젝트입니다.
+- 전역적으로 상태를 관리하는 것에대해 많이 배웠습니다. 다만 이런 방법을 어떻게 사용하는게 더 효율이 좋은지는 공부를 더 해봐야겠습니다.
+- 프로젝트가 처음이니 협업도 처음이었습니다. 느낀 점은 주석 그리고 정형화된 틀을 지키지 않은 코드는 해석하기 정말 어렵다는 것입니다. 코드를 짜며 어느정도의 규칙과 틀을 지키려고 노력했습니다.
+- 저는 솔직히 기여를 많이 하지 못했습니다. 그런데도 이 웹은 참 좋다고 생각됩니다. 꽤나, 상당히 유용합니다 많이 이용해주세요.
 
 
 
