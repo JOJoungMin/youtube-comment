@@ -127,13 +127,6 @@
 |<img src="https://github.com/user-attachments/assets/c5093e66-2315-48a8-81ad-21ec0bd332e9" alt="로컬 저장소 2" style="max-width: 100%; height: auto;" width="48%"/> <img src="https://github.com/user-attachments/assets/cb91d690-7dbf-41ab-b44c-4ae272aafc15" alt="로컬 저장소 1" style="max-width: 100%; height: auto;" width="48%" />|
 |local 저장소에 데이터가 새롭게 들어갑니다.|
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-|local 저장소 추가 확인|
-|:---:|
-|<img src="https://github.com/user-attachments/assets/cb91d690-7dbf-41ab-b44c-4ae272aafc15" alt="로컬 저장소 1" style="max-width: 100%; height: auto;" />|
-|local 저장소에서 새로운 데이터를 데려와 화면에 표시합니다.|
-
 - 이용자가 최근에 검색한 영상을 4개까지 보여줍니다.
 - 영상을 새롭게 데려오면 저장소가 업데이트 되어 최근 4개 항목이 갱신됩니다.
 
@@ -141,17 +134,30 @@
 
 ### 4-2. 유튜버 페이지
 
+
+##### 기본 기능 (댓글 감정 평가 그래프)
+
 |댓글 감정 평가 그래프|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/452a8d96-fe63-4fc3-aa99-869425f52710" alt="댓글 감정 평가" width="48%"/>|
-|<img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" width="48%"/>|
+|<img src="https://github.com/user-attachments/assets/452a8d96-fe63-4fc3-aa99-869425f52710" alt="댓글 감정 평가" />|
+
 |그동안 검색했던 해당 유튜버의 모든 영상을 감정 평가한 것을 그래프로 보여줍니다.|
 
+##### 기본 기능 (댓글 키워드 추출 그래프)
 
 |댓글 키워드 추출 그래프|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" width="48%"/> <img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" width="48%"/>|
+|<img src="https://github.com/user-attachments/assets/8e5752a8-8808-4526-9c33-db50eebde3ed" alt="댓글 키워드 추출" />|
 |그동안 검색했던 해당 유튜버의 모든 영상 댓글에서 키워드를 추출해 보여줍니다.|
+
+
+- - - 
+
+
+### 4-3. 비디오 페이지
+
+
+
 
 <div style="display: flex; justify-content: center;">
        <img src="https://github.com/user-attachments/assets/452a8d96-fe63-4fc3-aa99-869425f52710" alt="댓글 감정 평가" width="48%"/>
