@@ -124,15 +124,14 @@
 
 |local 저장소 추가|
 |:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="450"/>|
+|<img src="https://github.com/user-attachments/assets/c5093e66-2315-48a8-81ad-21ec0bd332e9" alt="로컬 저장소 2" style="max-width: 100%; height: auto;" />|
 |local 저장소에 데이터가 새롭게 들어갑니다.|
 
 
 |local 저장소 추가 확인|
 |:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="450"/>|
+|<img src="https://github.com/user-attachments/assets/cb91d690-7dbf-41ab-b44c-4ae272aafc15" alt="로컬 저장소 1" style="max-width: 100%; height: auto;" />|
 |local 저장소에서 새로운 데이터를 데려와 화면에 표시합니다.|
-
 
 
 
