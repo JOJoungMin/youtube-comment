@@ -3,13 +3,12 @@
 <div align="center">
 
 <!-- logo -->
-<img src="https://user-images.githubusercontent.com/80824750/208554611-f8277015-12e8-48d2-b2cc-d09d67f03c02.png" width="400"/>
 <img src="https://github.com/user-attachments/assets/02f355d3-7283-46c7-aee6-8aa2e87cb0bc" alt="리드미 상단 사진" />
 
 ### 📝 0. 기본 정보 ✅
 
-[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-green?style=flat&logo=&logoColor=white" />]()
+<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-fab2ac?style=flat&logo=&logoColor=white" />]()
+<br/> [<img src="https://img.shields.io/badge/팀원-김동우, 조정민-fab2ac?style=flat&logo=&logoColor=white" />]()
 
 </div> 
 
