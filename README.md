@@ -3,8 +3,13 @@
 <div align="center">
 
 <!-- logo -->
+
+//div가둬서 크기 max width 걸어두기 @@
+
 <img src="https://github.com/user-attachments/assets/02f355d3-7283-46c7-aee6-8aa2e87cb0bc" alt="리드미 상단 사진" />
 
+
+//이미지 크기 줄이기 @@
 ### 📝 0. 기본 정보 ✅
 
 <br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2024.09.10~2024.12.03-fab2ac?style=flat&logo=&logoColor=white" />]()
@@ -13,10 +18,14 @@
 </div> 
 
 
+
+//주소 링크 니까 제목 바꾸기 @@
 ## 1. 설치 방법
 
 ### [유튜뷰](https://youtuview.site) 👈 클릭
 
+
+//기술들 다 추가하기
 ## 2. 개요
 - 프로젝트 이름: 유투브 댓글 분석 웹앱-유튜뷰
 - 개발 기간: 2024.09.10 ~ 2024.12.03
@@ -69,6 +78,8 @@
 
   - 사용자가 최근에 검색한 영상 정보를 localstorage에 저장하였습니다.
   - 로그인을 할 시 이용자의 정보를 받아와 메인화면에 localstorage에 저장된 정보를 보여줍니다. 
+
+
  
 - #### PWA로 네이티브 앱 처럼 다운 가능
   - PWA를 사용하여 네이티브 앱 처럼 홈 화면에 추가 가능합니다.
